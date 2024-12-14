@@ -5,9 +5,14 @@
 
 - 🔭 I’m currently working on **Machine Learning basics**
 
-- 🌱 I’m currently learning **Django, machine learning etc**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iKYJv6nslnGn2RmFr53oSjS7CloQpxHz/view?usp=sharing](https://drive.google.com/file/d/1iKYJv6nslnGn2RmFr53oSjS7CloQpxHz/view?usp=sharing)
+- 🌱 Learning Goals
+     - 🧠 Deep Learning
+     - 🤖 Large Language Models (LLMs)
+     - 🔍 Natural Language Processing (NLP)
+     - 📊 Advanced Statistics & Probability
+     - 🧩 Data Structures & Algorithms (DSA)
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
