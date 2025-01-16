@@ -10,7 +10,7 @@
      - 🧠 Deep Learning
      - 🤖 Large Language Models (LLMs)
      - 🔍 Natural Language Processing (NLP)
-     - 📊 Advanced Statistics & Probability
+     - 📊 Agentic AI
      - 🧩 Data Structures & Algorithms (DSA)
 
 
