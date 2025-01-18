@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on **Machine Learning basics**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iKYJv6nslnGn2RmFr53oSjS7CloQpxHz/view?usp=sharing](https://drive.google.com/file/d/1iKYJv6nslnGn2RmFr53oSjS7CloQpxHz/view?usp=sharing)
-- 🌱 Learning Goals
+- 🌱 Learning Goal
      - 🧠 Deep Learning
      - 🤖 Large Language Models (LLMs)
      - 📊 Agentic AI
