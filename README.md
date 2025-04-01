@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Moksh Choudhary</h1>
+![image](https://github.com/user-attachments/assets/bfe153df-8e1d-4343-ad94-461c8ebd0080)
+
 <h3 align="center">A passionate ML Engineer/Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakarotmc&label=Profile%20views&color=0e75b6&style=flat" alt="kakarotmc" /> </p>
