@@ -9,7 +9,7 @@
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iKYJv6nslnGn2RmFr53oSjS7CloQpxHz/view?usp=sharing](https://drive.google.com/file/d/1iKYJv6nslnGn2RmFr53oSjS7CloQpxHz/view?usp=sharing)
 - 🌱 Learning Goals
      - 🧠 Deep Learning
-     - 📊 Generative AI
+     - 📊 Gen AI
      - 🤖 Large Language Models (LLMs)
      - 📊 Agentic AI
      - 🧩 Data Structures & Algorithms (DSA)
