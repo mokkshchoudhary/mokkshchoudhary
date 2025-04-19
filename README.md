@@ -10,7 +10,7 @@
 - 🌱 Learning Goals
      - 🧠 Deep Learning
      - 📊 Gen AI
-     - 🤖 Large Language Models (LLMs)
+     - 🤖 (LLMs)
      - 📊 Agentic AI
      - 🧩 Data Structures & Algorithms (DSA)
 
