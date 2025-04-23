@@ -12,7 +12,7 @@
      - 📊 Gen AI
      - 🤖 (LLMs)
      - 📊 Agentic AI
-     - 🧩 Data Structures & Algorithms (DSA)
+     - 🧩 Data Structures & Algorithms
 
 
 <h3 align="left">Connect with me:</h3>
