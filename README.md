@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Moksh Choudhary</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🎓 I’m currently a Master's Student **in University of Liverpool.**
+- 🎓 I’m currently a Master's Student **at University of Liverpool.**
 
-- 🌱 I’m currently learning **frameworks**
+- 🌱 I’m currently learning **about LLMs.**
 
 - 👯 I’m looking to collaborate on **AI related projects.**
 
