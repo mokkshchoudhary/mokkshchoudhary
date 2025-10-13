@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kakarotmc&label=Profile%20views&color=0e75b6&style=flat" alt="kakarotmc" /> </p>
 
-- 🔭 I’m currently working on **Machine Learning basics**
+- 🔭 I’m currently studying in University of Liverpool
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1iKYJv6nslnGn2RmFr53oSjS7CloQpxHz/view?usp=sharing](https://drive.google.com/file/d/1iKYJv6nslnGn2RmFr53oSjS7CloQpxHz/view?usp=sharing)
 - 🌱 Learning Goals
