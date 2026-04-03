@@ -37,11 +37,11 @@ I build things that work. Currently deep in AI tooling.
 **Co-founder & Analyst** · *Social Media Management Company (Bootstrapped)* · May 2023 – May 2025  
 Built and ran a bootstrapped venture from scratch. Handled operations, data analysis, client strategy, and growth. Shut it down on our terms.
 
-**Backend Intern** · *[Company Name]* · Feb 2023 – Apr 2023
+**Backend Intern** · *Lyceum Gurukul* · Feb 2023 – Apr 2023
 
-**Software Developer Intern** · *NewGen Technomat* · Aug 2022 – Jan 2023
+**Software Developer Intern** · *NewGen Technomate* · Aug 2022 – Jan 2023
 
-**Restaurant Manager** · *Family Business* · Jan 2021 – Dec 2021  
+**Restaurant Manager** · *Family Restaurant* · Jan 2021 – Dec 2021  
 Opened and operated a restaurant during COVID recovery while completing my undergraduate degree online. Full operations responsibility from day one.
 
 ---
@@ -60,7 +60,7 @@ Opened and operated a restaurant during COVID recovery while completing my under
 ## Education
 
 **MSc Advanced Computer Science** · University of Liverpool · Sep 2025 – Present  
-**BSc Computer Science** · [Your undergrad university] · [Years]
+**B.Tech Computer Science** · AKTU · Aug 2018 to Jul 2022
 
 ---
 
