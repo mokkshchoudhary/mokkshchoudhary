@@ -18,7 +18,7 @@
 
 I'm a software engineer with 3+ years of hands-on experience spanning backend engineering, AI systems, and running a bootstrapped company. Currently finishing my Master's in Advanced Computer Science at Liverpool, where most of my focus has shifted to LLMs and applied AI.
 
-Before going back to academia, I co-founded a social media management company (bootstrapped, May 2023 – May 2025), where I wore every hat — operations, analytics, client delivery. Before that, backend internships and, oddly, a year managing a family restaurant I opened post-COVID while finishing university online. That one taught me more about pressure and prioritisation than any internship did.
+Before going back to academia, I co-founded a social media management company (bootstrapped, May 2023 – May 2025), where I wore every hat operations, analytics, client delivery. Before that, backend internships and, oddly, a year managing a family restaurant I opened post-COVID while finishing university online. That one taught me more about pressure and prioritisation than any internship did.
 
 I build things that work. Currently deep in AI tooling.
 
