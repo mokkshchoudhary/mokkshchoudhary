@@ -46,13 +46,14 @@ Opened and operated a restaurant during COVID recovery while completing my under
 
 ---
 
-## Stack
-
-**Languages** · Python, Go, C++  
-**Backend** · Django, Flask  
-**AI/ML** · PyTorch, TensorFlow, scikit-learn, LLMs  
+**Languages** · Python, JavaScript, TypeScript, C++, Go  
+**Frontend** · React  
+**Backend** · Django, Flask, FastAPI  
+**AI/ML** · LLMs, Generative AI, AI Agents, PyTorch, scikit-learn  
+**AI Tooling** · LLM-assisted development, Claude Code  
 **Infra** · Docker, Kubernetes, AWS, GCP  
-**Databases** · PostgreSQL, MongoDB, MySQL
+**Databases** · PostgreSQL, MongoDB, MySQL  
+**Other** · Excel (Advanced)
 
 ---
 
