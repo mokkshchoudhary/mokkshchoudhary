@@ -26,18 +26,9 @@ I build things that work. Currently deep in AI tooling.
 
 ## 🔨 Currently Building
 
-| Project | What it does |
-|--------|-------------|
-| 🔥 [Project Name](https://github.com/mokkshchoudhary) | Description here |
-| 🧠 [Project Name](https://github.com/mokkshchoudhary) | Description here |
-| ⚙️ [Project Name](https://github.com/mokkshchoudhary) | Description here |
-
 ## ✅ Shipped
 
-| Project | What it does |
-|--------|-------------|
-| 📦 [Project Name](https://github.com/mokkshchoudhary) | Description here |
-| 📦 [Project Name](https://github.com/mokkshchoudhary) | Description here |
+| 🧠 BrainForging (https://brain-forging.vercel.app/) | BrainForging is a **beginner-focused Python learning platform** that teaches programming through structured, hands-on coding challenges |
 
 ---
 
