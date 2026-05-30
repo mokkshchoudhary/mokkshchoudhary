@@ -29,6 +29,7 @@ I build things that work. Currently deep in AI tooling.
 ## ✅ Shipped
 
 | 🧠 BrainForging (https://brain-forging.vercel.app/) | BrainForging is a **beginner-focused Python learning platform** that teaches programming through structured, hands-on coding challenges |
+| ⚖️ ADA Prep (https://ada-prep-c0cbb.web.app/) | ADA Prep is an HPSC Assistant District Attorney exam prep app made for a friend, with structured flashcards, progress tracking, and Firebase sync. |
 
 ---
 
