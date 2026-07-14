@@ -32,6 +32,8 @@ I build things that work. Currently deep in AI tooling.
 
 | ⚖️ ADA Prep (https://ada-prep-c0cbb.web.app/) | ADA Prep is an HPSC Assistant District Attorney exam prep app made for a friend, with structured flashcards, progress tracking, and Firebase sync. |
 
+
+
 ---
 
 ## Experience
