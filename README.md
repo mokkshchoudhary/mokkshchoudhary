@@ -50,6 +50,8 @@ Opened and operated a restaurant during COVID recovery while completing my under
 
 ---
 
+![GitBlend Contributions](https://gitblend.com/api/contributions?username=mokkshchoudhary)
+
 **Languages** · Python, JavaScript, TypeScript, C++, Go  
 **Frontend** · React  
 **Backend** · Django, Flask, FastAPI  
