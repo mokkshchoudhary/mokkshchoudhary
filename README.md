@@ -51,7 +51,7 @@ Opened and operated a restaurant during COVID recovery while completing my under
 ---
 
 
-**Languages** · Python, JavaScript, TypeScript, C++, Go  
+**Languages** · Python, JavaScript, TypeScript, C++
 **Frontend** · React  
 **Backend** · Django, Flask, FastAPI  
 **AI/ML** · LLMs, Generative AI, AI Agents, PyTorch, scikit-learn  
