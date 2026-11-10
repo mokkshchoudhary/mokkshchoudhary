@@ -1,75 +1,64 @@
-<h1 align="center">Moksh Choudhary</h1>
+# Moksh Choudhary
 
-<p align="center">
-  MSc Advanced Computer Science · University of Liverpool<br/>
-  Software Engineer · AI & Backend Systems<br/>
-  <strong>🟢 Actively looking for full-time roles — available immediately</strong>
-</p>
+**Python Backend and AI Engineer** · MSc, University of Liverpool · Liverpool, UK
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mokksh-choudhary/">LinkedIn</a> ·
-  <a href="mailto:mokkshchoudhary@gmail.com">Email</a> ·
-  <a href="https://www.leetcode.com/kakarotmr">LeetCode</a>
-</p>
+[LinkedIn](https://www.linkedin.com/in/mokksh-choudhary/) · [Portfolio](https://mokkshchoudhary.github.io/) · [Email](mailto:mokkshchoudhary@gmail.com)
 
 ---
 
 ## About
 
-I'm a software engineer with 3+ years of hands-on experience spanning backend engineering, AI systems, and running a bootstrapped company. Currently finishing my Master's in Advanced Computer Science at Liverpool, where most of my focus has shifted to LLMs and applied AI.
+Backend-focused software engineer with 3 years of professional experience (Jul 2022 to Aug 2025), mostly Python and FastAPI: REST APIs, database-backed business workflows, authentication and authorisation, third-party integrations, background processing, automated testing and production support.
 
-Before going back to academia, I co-founded a social media management company (bootstrapped, May 2023 – May 2025), where I wore every hat operations, analytics, client delivery. Before that, backend internships and, oddly, a year managing a family restaurant I opened post-COVID while finishing university online. That one taught me more about pressure and prioritisation than any internship did.
+I was the primary backend engineer on a production, customer-facing insurance RAG chatbot built with FastAPI and LangChain. I combine conventional web engineering with applied generative AI.
 
-I build things that work. Currently deep in AI tooling.
-
----
-
-## 🔨 Currently Building
-
-## ✅ Shipped
-
-| 🧠 BrainForging (https://brain-forging.vercel.app/) | BrainForging is a **beginner-focused Python learning platform** that teaches programming through structured, hands-on coding challenges |
-
-| ⚖️ ADA Prep (https://ada-prep-c0cbb.web.app/) | ADA Prep is an HPSC Assistant District Attorney exam prep app made for a friend, with structured flashcards, progress tracking, and Firebase sync. |
-
-
+Open to AI Engineer and Backend Engineer roles in the UK (remote, hybrid or onsite).
 
 ---
 
 ## Experience
 
-**Co-founder & Analyst** · *Social Media Management Company (Bootstrapped)* · May 2023 – May 2025  
-Built and ran a bootstrapped venture from scratch. Handled operations, data analysis, client strategy, and growth. Shut it down on our terms.
+**Software Developer** · Newgen Technomate LLP · Noida, India · Jul 2022 to Aug 2025
 
-**Backend Intern** · *Lyceum Gurukul* · Feb 2023 – Apr 2023
-
-**Software Developer Intern** · *NewGen Technomate* · Aug 2022 – Jan 2023
-
-**Restaurant Manager** · *Family Restaurant* · Jan 2021 – Dec 2021  
-Opened and operated a restaurant during COVID recovery while completing my undergraduate degree online. Full operations responsibility from day one.
+- Engineered and maintained 10+ Python and FastAPI microservices across 7+ enterprise and customer-facing applications, with 120+ REST endpoints and 25+ database-backed workflows
+- Integrated 12+ third-party APIs and built 6+ payment workflows with webhook handling and status reconciliation
+- Built 20+ asynchronous background jobs and 8+ document-processing pipelines
+- Maintained automated suites of 350+ tests, and contributed to 60+ production releases and 25+ incident investigations
+- Led the backend of a production insurance RAG chatbot (FastAPI, LangChain) as primary backend engineer in a two-person team
+- Turned 1,000+ documents and web pages into 40,000+ searchable chunks, reaching roughly 90% acceptable answers across 500+ evaluation queries with end-to-end responses of about 1-3 seconds
 
 ---
 
+## Projects
 
-**Languages** · Python, JavaScript, TypeScript, C++
-**Frontend** · React  
-**Backend** · Django, Flask, FastAPI  
-**AI/ML** · LLMs, Generative AI, AI Agents, PyTorch, scikit-learn  
-**AI Tooling** · LLM-assisted development, Claude Code  
-**Infra** · Docker, Kubernetes, AWS, GCP  
-**Databases** · PostgreSQL, MongoDB, MySQL  
-**Other** · Excel (Advanced)
+- **[AskDocs](https://github.com/mokkshchoudhary/AskDocs)**: authenticated, multi-tenant RAG knowledge-base API. FastAPI, async SQLAlchemy, PostgreSQL, pgvector, Celery, Redis, JWT, Server-Sent Events, Docker Compose
+- **[DeMiNH](https://github.com/mokkshchoudhary/deminh)**: numerical hallucination detection experiment comparing no verification, LLM self-checking and deterministic verification. 802 usable FinQA cases, 44 automated tests. LangGraph, LangChain, Ollama, pandas, pytest
+- **[BrainForging](https://brain-forging.vercel.app/)**: live Python learning platform with 50 coding challenges that run in the browser. Next.js, React, TypeScript, Pyodide, Clerk, Supabase ([source](https://github.com/mokkshchoudhary/BrainForging))
+- **[MatchCast](https://github.com/mokkshchoudhary/MatchCast)**: probabilistic international football prediction engine on 49,000+ historical matches. 0.967 log loss and 55.0% backtest accuracy. Python, pandas, scikit-learn, XGBoost
+- **[ADA Prep](https://ada-prep-c0cbb.web.app/)**: deployed exam-preparation platform with 12,571 MCQ identifiers across 18 subject categories. React, Firebase ([source](https://github.com/mokkshchoudhary/ada-prep))
+
+---
+
+## Skills
+
+**Languages** · Python, TypeScript, JavaScript, SQL, Kotlin, Dart<br/>
+**Backend** · FastAPI, Django, Node.js, REST APIs, JWT, Server-Sent Events<br/>
+**Generative AI** · LangChain, LangGraph, RAG, embeddings, vector search, LLM APIs, Ollama<br/>
+**Data and messaging** · PostgreSQL, SQLAlchemy, pgvector, Redis, Celery, Kafka, Supabase, Firestore<br/>
+**ML** · pandas, NumPy, scikit-learn, XGBoost, PyTorch, TensorFlow<br/>
+**Frontend** · React, Next.js, Tailwind CSS<br/>
+**Cloud and DevOps** · AWS, Kubernetes, Terraform, Docker, GitHub Actions<br/>
+**Testing** · pytest, Vitest, integration testing
 
 ---
 
 ## Education
 
-**MSc Advanced Computer Science** · University of Liverpool · Sep 2025 – Present  
-**B.Tech Computer Science** · AKTU · Aug 2018 to Jul 2022
+**MSc Advanced Computer Science** · University of Liverpool · Sep 2025 to Sep 2026<br/>
+**B.Tech Computer Science** · AKTU, Lucknow · 2018 to 2022
 
 ---
 
 <p align="center">
-  <i>If you're hiring engineers who can build, figure things out, and have actually run something — let's talk.</i><br/>
-  <a href="mailto:mokkshchoudhary@gmail.com">mokkshchoudhary@gmail.com</a>
+<a href="mailto:mokkshchoudhary@gmail.com">mokkshchoudhary@gmail.com</a>
 </p>
